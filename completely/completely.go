@@ -1,0 +1,5 @@
+package completely
+
+func Noop() {
+
+}
